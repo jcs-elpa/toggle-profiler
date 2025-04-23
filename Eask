@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "toggle-profiler"
          "0.1.0"
          "Useful functions to interact with profiler")
